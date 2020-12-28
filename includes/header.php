@@ -13,6 +13,7 @@
         <li><a href="index.php">Home</a></li>
         <li><a href="#about">About</a></li>
         <li><a href="services.php">Services</a></li>
+        <li><a href="blog.php">Blog</a></li>
         <li><a href="index.php#testimonials">Testimonial</a></li>
         <!-- <li class="drop-down"><a href="">What We Do</a>
           <ul>
